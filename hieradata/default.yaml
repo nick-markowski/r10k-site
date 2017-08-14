@@ -1,9 +1,4 @@
 ---
 
-# This is the default hiera file
-# Any parameters added here will be applied to every system
-#
-# Hiera crashes if there are empty files, so
-# please remove the following line if you use this file
-this_is_an_example_key: 'that does nothing'
-
+simp_options::puppet::server: nmr10k.tasty.bacon
+simp_options::puppet::ca: nmr10k.tasty.bacon
