@@ -272,9 +272,9 @@ mod 'simp-pupmod',
 ##
 ### FIXME SIMP changes?
 ### TODO needs tag
-##mod 'simp-puppetdb',
-##  :git => 'https://github.com/simp/puppetlabs-puppetdb',
-##  :ref => '3718c588cf4e40c450dfaae16afc1aac6ad6cb88'
+mod 'simp-puppetdb',
+  :git => 'https://github.com/simp/puppetlabs-puppetdb',
+  :ref => '3718c588cf4e40c450dfaae16afc1aac6ad6cb88'
 ##
 ##mod 'simp-resolv',
 ##  :git => 'https://github.com/simp/pupmod-simp-resolv',
