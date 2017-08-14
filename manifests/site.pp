@@ -18,7 +18,7 @@ Exec {
 #   * `simp-lite` - makes use of many of our modules, but doesn't apply
 #        many prohibitive security or compliance features, svckill
 #   * `poss` - only include pupmod by default to configure the agent
-$simp_scenario = 'poss'
+$simp_scenario = 'remote_access'
 
 # Map SIMP parameters to NIST Special Publication 800-53, Revision 4
 # See hieradata/compliance_profiles/ for more options.
