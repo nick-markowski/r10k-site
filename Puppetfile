@@ -107,9 +107,9 @@
 ##  :git => 'https://github.com/simp/puppetlabs-puppet_authorization',
 ##  :ref => 'master'
 ##
-##mod 'puppetlabs-stdlib',
-##  :git => 'https://github.com/simp/puppetlabs-stdlib',
-##  :ref => '7507af555361b2dcba8ed6189dc54c21e64ea031'
+mod 'puppetlabs-stdlib',
+  :git => 'https://github.com/simp/puppetlabs-stdlib',
+  :ref => '7507af555361b2dcba8ed6189dc54c21e64ea031'
 ##
 ##mod 'richardc-datacat',
 ##  :git => 'https://github.com/simp/puppet-datacat',
