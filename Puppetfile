@@ -82,9 +82,9 @@
 ##  :git => 'https://github.com/simp/puppet-grafana.git',
 ##  :tag => 'v3.0.0'
 ##
-##mod 'puppetlabs-inifile',
-##  :git => 'https://github.com/simp/puppetlabs-inifile',
-##  :ref => '252ab552f4bf57d1099c2c2f5578f602caa7b1a5'
+mod 'puppetlabs-inifile',
+  :git => 'https://github.com/simp/puppetlabs-inifile',
+  :ref => '252ab552f4bf57d1099c2c2f5578f602caa7b1a5'
 ##
 ##mod 'puppetlabs-java',
 ##  :git => 'https://github.com/simp/puppetlabs-java',
